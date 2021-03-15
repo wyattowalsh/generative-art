@@ -2,11 +2,10 @@
 # Directories 
 
 **/papers/
-processing/**day*/
-processing/examples/*
-processing/libraries/*
-processing/modes/*
-processing/tools/*
+**/processing/examples/*
+**/processing/libraries/*
+**/processing/modes/*
+**/processing/tools/*
 
 # Files types
 
@@ -14,7 +13,7 @@ processing/tools/*
 *.tiff
 *.tif
 *.zip
-
+*.autosave
 
 
 
