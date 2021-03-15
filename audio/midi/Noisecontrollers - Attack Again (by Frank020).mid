@@ -1,0 +1,157 @@
+<html>
+<head>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2034316-1";
+urchinTracker();
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<style>
+textarea { border: 1px solid #E5E5E5; overflow: auto; }
+body,td,p { font-family: Verdana; font-size: 12px; }
+
+label { cursor: pointer; }
+.labelHead { font-weight: bold; cursor: pointer; }
+
+.header {
+        border-top: solid 1px #E5ECF9;
+        text-align: left;
+        padding: 2px;
+        padding-left: 0px;
+}
+.bottomlinks {
+	font-size:10px;
+        color: #0000ff;
+}
+a,.link { color: blue;
+        text-decoration: underline;
+	cursor: pointer;
+}
+.linknun { color: blue;
+	cursor: pointer;
+}
+.sort { color: black;
+        text-decoration: none;
+}
+
+.pager,.pagerW,.pagerNrCurrent
+{
+   padding: 2px;
+   margin: 2px;
+   font-size: 11px;
+   text-decoration:none;
+}
+.pagerW { border: 1px dashed silver; padding: 5px; margin: 3px; margin-top: 10px; background-color: #EEEEFF; }
+.pagerNr { color: #0000FF; }
+.pagerNrCurrent { color: #AAAAAA; text-decoration: overline; }
+
+.sort:hover { text-decoration: underline; }
+.green {
+      color: #008000;
+}
+.greenInfo {
+      color: #FF0000;
+}
+.redInfo {
+      color: #FF0000;
+}
+.ad { color: blue;
+      text-decoration: none;
+}
+.ad:hover {
+      text-decoration: underline;
+}
+
+.adHeadline {
+      text-decoration: underline;
+      font-family: Verdana,sans-serif;
+          font-size: 11px;
+          color: blue;
+
+}
+.adText {
+          text-decoration: none;
+          font-family: Verdana,sans-serif;
+          font-size: 11px;
+          color: black;
+}
+
+.result { font-family: Verdana,sans-serif;
+          font-size: 11px;
+}
+.respic {
+   float: left;
+   margin-right: 20px;
+}
+.resultlink { font-family: arial,sans-serif;
+              font-size: 13px;
+              color: blue;
+              font-weight: bold;
+              text-decoration: underline;
+              cursor: pointer;
+}
+.blueline { border-top: solid 1px #3366CC; 
+            background: #E5ECF9;
+	    font-size: 15px;
+	    padding: 3px;
+}
+.url { color: #009900; }
+.urlbox { color: #009900; border: 1px solid #858585; font-family: Verdana; font-size: 12px; overflow: hidden; border: 0px; width: 650px;}
+.trade { font-family: Arial,Serif; font-size: 12px; }
+
+.progress
+{
+   background-image: url('/gf/progress.png');
+   background-position: 1;
+   font-family: Verdana;
+   font-size: 10px;
+}
+
+</style>
+<script language="javascript">
+<!--
+
+   var f=0;
+
+   function setDisplay(element,enable)
+   {
+      document.getElementById(element).style.display=(enable?'inline':'none');
+   }
+   function tablebg(element,color)
+   {
+      document.getElementById(element).style.backgroundColor=color;
+   }
+
+
+   function selectLinkCode(id)
+   {
+      document.getElementById(id).focus();
+      document.getElementById(id).select();
+   }
+
+   function anotherFile()
+   {
+      f++;
+      document.getElementById("nextfiles"+f).innerHTML+='<span id=f'+f+'>'
+        +'<BR><img src=/gf/spacer.gif border=0 width=1 height=2><BR>'
+        +'<input type=file name=fileup'+f+' size="70"></span><span id=nextfiles'+(f+1)+'></span>';
+      document.getElementById("nextremove"+f).innerHTML+='<span id=r'+f+'>'
+        +'<font size=1 class=link onClick="document.getElementById(\'f'+f+'\').innerHTML=\'\'; document.getElementById(\'r'+f+'\').innerHTML=\'\';">remove<BR><BR></font></span><span id=nextremove'+(f+1)+'></span>';
+   }
+
+   function progressBar(x)
+   {
+      document.getElementById("progressbar").style.visibility = x;
+      return 0;
+   }
+
+
+-->
+</script>
+<title>Bad Request</title></head>
+<body BGCOLOR="#FFFFFF">
+<h2 class=blueline><b>Not valid anymore</b></h2>Your URL is no more valid. Please visit original URL to download. Make sure to enable cookies in your browser! If you use Leopard OSX, switch to Linux. It's also possible that your country has been blacklisted entirely (because of many illegal uploads).<script> location.href="ht"+"tp"+"://www.speed"+"yshare.com/"+"524166457."+"html"; </script><BR><BR><BR><BR><BR><BR><p class="blueline">&nbsp;</p>
